@@ -1,0 +1,1 @@
+target_stm32f411xe(IFLIGHT_F411_PRO)
